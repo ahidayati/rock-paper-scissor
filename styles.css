@@ -1,0 +1,52 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.hand {
+  text-align: center;
+  display: inline-block;
+}
+
+.refresh {
+  width: 30%;
+  position: absolute;
+}
+.arrow {
+  margin-left: 5%;
+  width: 20%;
+}
+.refresh-text {
+  margin-top: 0;
+}
+
+body {
+  background-color: #0f3460;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Chango', cursive;
+  text-shadow: 7px 0 #000000;
+  font-size: 4.5rem;
+  color: #e94560;
+}
+
+p {
+  font-size: 2rem;
+  color: #e94560;
+  font-family: 'Nanum Pen Script', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Nanum Pen Script', cursive;
+
+}
